@@ -62,6 +62,10 @@ footer{
     margin-top: 20px;
 }
 
+table, td{
+    border: 1px solid black;
+}
+
 caption{
     background-color: rgba(48, 77, 172, 0.75);
     font-style: italic;
