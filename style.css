@@ -53,9 +53,30 @@ footer{
 #opleidingen{
     float: left;
     margin-left: 20px;
+    margin-top: 20px;
 }
 
 #werkervaring{
     float: right;
     margin-right: 20px;
+    margin-top: 20px;
+}
+
+caption{
+    background-color: rgba(48, 77, 172, 0.75);
+    font-style: italic;
+}
+
+form > *{
+    display: block;
+    margin: 5px;
+}
+
+label{
+    font-weight: bold;
+}
+
+#boodschap{
+    height: 300px;
+    width: 500px;
 }
